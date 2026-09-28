@@ -1,0 +1,60 @@
+﻿MATBAA TALİMATI — ROSEN'S EMERGENCY MEDICINE, 10. baskı
+2 cilt, sert kapak, 1 takım (kişisel kullanım, 1 adet)
+1) NE İSTİYORUM
+   İki ciltlik sert kapaklı kitap; kesim sonrası 216 × 276 mm; iç blok 60 g
+   beyaz mat 1. hamur; iplik dikiş (PUR da olur); karma baskı (listedeki
+   sayfalar renkli, kalanı gri). Toplam 3068 sayfa, 592'si renkli.
+2) DOSYALAR
+   Rosen_10e_Cilt1_ic.pdf             1550 sayfa (38 boş)  iç blok, Cilt 1
+   Rosen_10e_Cilt2_ic.pdf             1518 sayfa (56 boş)  iç blok, Cilt 2
+   Rosen_10e_kapak_Cilt1.jpg/.pdf      Cilt 1 ön kapağı ("Volume 1" yazılı)
+   Rosen_10e_kapak_Cilt2.jpg/.pdf      Cilt 2 ön kapağı ("Volume 2" yazılı)
+   Rosen_10e_acik_kapak_Cilt1/2.pdf    arka+sırt+ön açık kapak; kılavuz PNG
+   Rosen_10e_renkli_sayfalar.txt       renkli sayfa listesi (PDF sayfa no)
+   Cilt 1: Bölüm 1–95 (Kısım I, II ve III'ün ilk yarısı; kitap s.2–1332)
+   Cilt 2: Bölüm 96–192 (Kısım III devamı, IV–V; s.1333–2462) + e-Bölüm e1–e16
+3) ÖLÇÜ VE BASKI
+   216 × 276 mm (8,5 × 10,875 inç) = PDF ölçüsü; %100 ÖLÇEK, sığdırma yok.
+   Çift taraflı; her PDF'in 1. sayfası sağ yüz (tekler sağda). Boş sayfalar
+   bilerek kondu (iç boşluk sırta gelsin): SİLMEYİN, sıra sabit. Forma için
+   gerekirse cilt sonuna 2 boş eklenebilir. Montaj (SRA3'e 2'li yaprak ya da
+   4'lü forma) ve çevirme yönü sizde.
+   Taşma payı yok: dış kenardaki kısım şeridi ve bölüm açılışlarındaki üst
+   bant kesim çizgisine dayanır. Dış/üst kenarda ±1 mm beyaz kabul. Görüntü
+   sırta dayalı; iç boşluk 17 mm, PUR frezesi 2–3 mm olur. Yedek: A4'e %97
+   ORTALI, 210 × 268 mm kesim; şerit kırpılabilir.
+4) KÂĞIT
+   60 g/m² BEYAZ mat 1. hamur ofset (metin ağırlıklı; cilt kalınlığı makul
+   kalır); 60 g yoksa 70 g. 80 g+ fotokopi kâğıdı kullanmayın (kalın, ağır).
+   Krem değil beyaz; renkli ve gri sayfalar aynı kâğıt. LİF YÖNÜ SIRTA (276
+   mm) PARALEL = SRA3'te kısa lifli (SG) tabaka; yoksa 64×90 / 70×100'den lif
+   gözetilerek kesin. Ters lif dalgalı sayfa ve sırt çatlağı yapar.
+5) CİLT
+   Sert kapak: 2,5–3 mm mukavva, 150–170 g kuşe + mat selefon; tülbent,
+   şiraze, 140–170 g forsa, kurdele; düz ya da yuvarlak sırt. Blok: İPLİK
+   DİKİŞ tercih; PUR kabul (2–3 mm freze); EVA sıcak tutkal İSTEMİYORUM
+   (sayfalar kopar). Kalınlık sorunsa cildi bölmeyin, kâğıdı inceltin.
+   Sırt tahmini C1/C2 (+ kapak ~5 mm): 60 g 58/57 · 70 g 68/67 · 80 g 78/76 mm
+   Kapak tasarımı HAZIR: Rosen_10e_acik_kapak_CiltN.pdf (arka+sırt+ön; 15 mm
+   sargı + 3 mm bleed; sırt C1 61 / C2 60 mm varsayıldı). Blok kalınlığı
+   farklıysa ölçüyü bildirin, dosya o sırtla yeniden üretilir; ön kapağı
+   KIRPMAYIN. Kılavuz PNG: magenta = mukavva kenarı, ölçüler mm. Renk sRGB
+   kabul; CMYK dönüşümü (zengin siyah) sizde.
+6) RENK — karma baskı
+   Yalnız Rosen_10e_renkli_sayfalar.txt'deki sayfalar renkli (Cilt 1: 333,
+   Cilt 2: 259; toplam 592), kalanı GRİYE ZORLANIR. Otomatik algılamaya
+   güvenmeyin: başlık ve tablo zeminleri renkli, hemen her sayfa renkli
+   sayılır. Tamamı renkli seçeneği: fiyat farkı küçükse onu seçerim.
+7) PROVA
+   Basılacak: Cilt 2 s.9–10 (bölüm açılışı; arkası griye zorlanan renkli
+   zemin) + listeden 2 renkli sayfa. Bakılacak: %100 ölçek, ön-arka hiza,
+   şerit kesimi, griye zorlanan tablo zemini okunur mu, renkli sayfa doğru mu.
+8) MATBAADAN SORULAR / NOTLAR
+   - Azami cilt kalınlığınız (iplik/PUR)? 60–70 g kısa lifli stoğunuz var mı?
+   - Çift yüz gramaj alt sınırınız? 60 g'da opaklık ≥ %90 sağlanıyor mu?
+   - Karma (renkli/gri) akışı sayfa listesiyle uygulayabiliyor musunuz?
+   - Sırtı ölçüp kapağı onaya sunar mısınız? (tasarım hazır)
+   - Preflight: Cilt 1'de 23 sayfa ve Cilt 2 s.1'de "Tahoma gömülü değil"
+     uyarısı çıkabilir; yazı tipi hiçbir sayfada kullanılmıyor, YOK SAYIN.
+   - Teslimde numaralar kesintisiz; boş sayfalar, ".e" ekli sayfalar (ör.
+     23.e2, çevrim içi soru-cevap) ve e1–e16 (çevrim içi bölümler) normaldir.
